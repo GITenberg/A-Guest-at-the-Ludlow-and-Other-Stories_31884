@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2704
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Wilson_Nye
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31884#A-Guest-at-the-Ludlow-and-Other-Stories
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2010-04-04'
 gutenberg_type: Text
